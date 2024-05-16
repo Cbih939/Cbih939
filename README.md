@@ -15,7 +15,7 @@ src="https://raw.githubusercontent.com/gist/Cbih939/7a940cac0d5c745ba920cd9efc1c
 
 
 ## Skills
-[![My Skills](https://skillicons.dev/icons?i=aws,docker,html,css,less,java,js,jquery,mysql,nodejs,powershell,react,solidity,electron&perline=8)](#)
+[![My Skills](https://skillicons.dev/icons?i=aws,docker,html,css,less,java,js,jquery,mysql,nodejs,powershell,react,solidity,electron&perline=4)](#)
 
 ## Socials
 [![My Socials](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seimonitai/) 
