@@ -1,11 +1,7 @@
 <img align="right" height="590em"
 src="https://raw.githubusercontent.com/gist/Cbih939/7a940cac0d5c745ba920cd9efc1ca224/raw/98c63505ef912d11f5177d337121851440e64398/githubcard.svg"/>
-
-<h1 align="left"> Hi dear <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> I'm Seimon Athayde</h1>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Cbih939&color=blue&abbreviated=true" alt=Profile views" /></p>
-
-
+<h1 align="left"> Hi dear <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> I'm Seimon Athayde</h1>
 
 - 🔥 Senior Front-end Developer & Blockchain.
 
@@ -27,7 +23,11 @@ src="https://raw.githubusercontent.com/gist/Cbih939/7a940cac0d5c745ba920cd9efc1c
 [![My Socials](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/ISeimon/)
 [![My Socials](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Cbih939/)
 
-
+## Github Analytics
+<p align="left">
+  <!--<img width="530em" src="https://github-readme-stats.vercel.app/api?username=Cbih939&show_icons=true&&layout=compact&theme=vision-friendly-dark" alt="Cbih939's stats"/>-->
+  <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cbih939&layout=compact&show_icons=true&theme=vision-friendly-dark" alt="Cbih939's most languages"/>
+</p>
 <!--
 
 **Cbih939/Cbih939** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
