@@ -11,7 +11,7 @@ src="https://gist.githubusercontent.com/Cbih939/2b03e2163fcfc386a28ded57ba5f0769
 
 - ⚡ Fun fact **Oneye 😜**
 
-- 👨‍💻 More at [seimonathayde.dev](https://seimonathaydedev.web.app)
+- 👨‍💻 More at [seimonathayde.dev](https://www.linkedin.com/in/seimonitai/)
 
 
 ## Skills
