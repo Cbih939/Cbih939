@@ -1,5 +1,3 @@
-<img align="right" height="590em"
-src="https://gist.githubusercontent.com/Cbih939/2b03e2163fcfc386a28ded57ba5f0769/raw/bc29b7ecf7be66ff9bfd689e37a382bfb09625b4/githubcard.svg"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Cbih939&color=blue&abbreviated=true" alt=Profile views" /></p>
 <h1 align="left"> Hi dear <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> I'm Seimon Athayde</h1>
 
