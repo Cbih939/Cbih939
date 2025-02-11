@@ -9,7 +9,7 @@
 
 - ⚡ Fun fact **Oneye 😜**
 
-- 👨‍💻 More at [seimonathayde.dev](https://www.linkedin.com/in/seimonitai/)
+- 👨‍💻 More at [seimoncorp](https://www.linkedin.com/in/seimonitai/)
 
 
 ## Skills
